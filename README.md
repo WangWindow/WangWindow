@@ -5,14 +5,15 @@
 ### Nice to meet you! 😄
 
 <table>
-<tr>
+  
 <td style = "width: 50%;">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ModestWangl&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
+![ModestWang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ModestWang&layout=compact&hide_border=true&langs_count=10)
+</td>
 
-</td>
 <td style = "width: 50%;">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModestWang&count_private=true&include_all_commits=true&hide_border=true&layout=compact)](http://apex.linn.top/)
+[![ModestWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModestWang)](https://github.com/anuraghazra/github-readme-stats)
 </td>
+
 </table>  
 
 <!--
