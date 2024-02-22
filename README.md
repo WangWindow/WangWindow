@@ -11,11 +11,8 @@
 
 </td>
 <td style = "width: 50%;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevincoooool&count_private=true&include_all_commits=true&hide_border=true&layout=compact)](http://apex.linn.top/)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModestWang&count_private=true&include_all_commits=true&hide_border=true&layout=compact)](http://apex.linn.top/)
 </td>
-
 </table>  
 
 <!--
