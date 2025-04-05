@@ -16,17 +16,18 @@
 <!--LINE-->
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 <!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <div style="display: flex; flex-direction: column; align-items: center; flex: 1;">
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=tokyonight&hide_border=true" />
+  </div>
+  <div style="display: flex; align-items: center; flex: 1;">
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=tokyonight&show_icons=true&hide=c,html,verilog,vhdl" />
+  </div>
 </div>
 
-<!--LINE-->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
-<!--使用的语言-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=tokyonight&show_icons=true&hide=c,html,verilog,vhdl" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 <!-- Link-Speed -->
