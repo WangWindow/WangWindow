@@ -30,21 +30,41 @@
 
 <!-- Most Used Languages -->
 <div align="center">
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=radical&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=radical&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=default&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" />
+    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=radical&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" alt="Top Languages" />
+  </picture>
 </div>
 <br>
 
 <!-- GitHub Stats -->
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="WangWindow's GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=tokyonight&hide_border=true" alt="WangWindow's Streak Stats" /></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=default&hide_border=true&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="WangWindow's GitHub Stats" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=tokyonight&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=default&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=tokyonight&hide_border=true" alt="WangWindow's Streak Stats" />
+      </picture>
+    </td>
   </tr>
 </table>
 <br>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=tokyonight&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=tokyonight&bg_color=20232a&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=minimal&hide_border=true&area=true" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=tokyonight&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" />
+  </picture>
 </div>
 <br>
 
@@ -165,6 +185,17 @@
   <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github" alt="GitHub Connection" />
   <img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google" alt="Google Connection" />
   <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram" alt="Telegram Connection" />
+</div>
+
+<br>
+
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WangWindow/WangWindow/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WangWindow/WangWindow/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/WangWindow/WangWindow/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br>
