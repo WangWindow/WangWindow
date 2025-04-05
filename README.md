@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi%2C+Welcome+to+my+GitHub+Profile!;I'm+WangWindow%2C+nice+to+meet+you!" alt="Typing SVG" />
 </div>
+<br>
 
 <div align="center">
   <!-- Profile Badges -->
