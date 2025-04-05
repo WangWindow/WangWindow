@@ -24,15 +24,10 @@
 
 <br>
 
-<!-- GitHub统计 - 两列并排布局 -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="WangWindow的GitHub统计" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=tokyonight&hide_border=true" alt="WangWindow的连续提交统计" />
-</div>
-
-<!-- 活动图表 -->
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=tokyonight&bg_color=20232a&hide_border=true&area=true" alt="活动图表" />
+<!-- GitHub统计 -->
+<div align="center">  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=tokyonight&bg_color=20232a&hide_border=true&area=true" alt="活动图表" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="WangWindow的GitHub统计" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=tokyonight&hide_border=true" alt="WangWindow的连续提交统计" />
 </div>
 
 <br>
