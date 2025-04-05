@@ -39,7 +39,7 @@
 
 <!-- 常用语言统计 -->
 <div align="center">
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=radical&show_icons=true&hide=verilog,vhdl&layout=donut-vertical&langs_count=10" alt="常用语言" />
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=radical&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" alt="常用语言" />
 </div>
 
 <br>
