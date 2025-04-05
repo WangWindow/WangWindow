@@ -77,8 +77,6 @@
 [![Docker](https://shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Jupyter](https://shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Vivado](https://shields.io/badge/Vivado-E01F27?style=flat&logo=xilinx&logoColor=white)](https://www.xilinx.com/products/design-tools/vivado.html)
-[![Vitis](https://shields.io/badge/Vitis-333333?style=flat&logo=xilinx&logoColor=white)](https://www.xilinx.com/products/design-tools/vitis.html)
 [![μVision](https://shields.io/badge/Keil_μVision-166BBA?style=flat&logo=arm&logoColor=white)](https://www.keil.com/)
 [![CLion](https://shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
 [![PlatformIO](https://shields.io/badge/PlatformIO-FF7F00?style=flat&logo=platformio&logoColor=white)](https://platformio.org/)
