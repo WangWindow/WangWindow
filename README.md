@@ -31,12 +31,14 @@
 <!-- Most Used Languages -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=radical&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=default&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" />
-    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=radical&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=tokyonight&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10"
+    />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=default&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10"
+    />
+    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=tokyonight&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" alt="Top Languages"
+    />
   </picture>
 </div>
-<br>
 
 <!-- GitHub Stats -->
 <table>
