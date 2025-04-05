@@ -122,7 +122,6 @@
 [![LVGL](https://shields.io/badge/LVGL-373E47?style=flat&logo=c&logoColor=white)](https://lvgl.io/)
 [![Qt](https://shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Uno Platform](https://shields.io/badge/Uno_Platform-5E5E5E?style=flat&logo=.net&logoColor=white)](https://platform.uno/)
-[![Flask](https://shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![MAUI](https://shields.io/badge/MAUI-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/maui)
 
 ### Platforms
