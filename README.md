@@ -4,6 +4,12 @@
 </div>
 <br>
 
+<!-- 添加新图片 -->
+<div align="center">
+  <img src="images/A003.png" alt="Project Image" width="80%" />
+</div>
+<br>
+
 <div align="center">
   <!-- Profile Badges -->
   <img src="https://shields.io/badge/🌱_Status-Learning-brightgreen" alt="Status" />
