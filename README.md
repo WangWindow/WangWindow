@@ -135,7 +135,6 @@
 ### Frameworks
 [![.NET](https://shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![React](https://shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Vue.js](https://shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![Tauri](https://shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)](https://tauri.app/)
 [![Blazor](https://shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 [![Django](https://shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -145,6 +144,8 @@
 [![Qt](https://shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Uno Platform](https://shields.io/badge/Uno_Platform-5E5E5E?style=flat&logo=.net&logoColor=white)](https://platform.uno/)
 [![MAUI](https://shields.io/badge/MAUI-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/maui)
+[![Godot](https://shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)](https://godotengine.org/)
+[![Unity](https://shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
 
 ### Platforms
 [![Website](https://shields.io/badge/Website-000000?style=flat&logo=internetexplorer&logoColor=white)](#)
@@ -164,12 +165,12 @@
 
 ### AI Technologies
 [![PyTorch](https://shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![YOLO](https://shields.io/badge/YOLO-00FFFF?style=flat&logo=opencv&logoColor=black)](https://pjreddie.com/darknet/yolo/)
 [![OpenCV](https://shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![ONNX](https://shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)](https://onnx.ai/)
 [![scikit-learn](https://shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Hugging Face](https://shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![DirectML](https://shields.io/badge/DirectML-0078D6?style=flat&logo=directml&logoColor=white)](https://docs.microsoft.com/en-us/windows/ai/directml/dml-intro)
+[![LLM](https://shields.io/badge/LLM-FFD700?style=flat&logo=language&logoColor=black)](https://en.wikipedia.org/wiki/Language_model)
 
 ### Terminal Tools
 [![PowerShell](https://shields.io/badge/PowerShell-5391FE?style=flat&logo=windows-terminal&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
@@ -177,8 +178,8 @@
 [![Zsh](https://shields.io/badge/Zsh-F15A24?style=flat&logo=gnu-bash&logoColor=white)](https://zsh.org/)
 [![Fish](https://shields.io/badge/Fish-394989?style=flat&logo=terminal&logoColor=white)](https://fishshell.com/)
 [![Yazi](https://shields.io/badge/Yazi-FFA500?style=flat&logo=file-explorer&logoColor=white)](https://github.com/sxyazi/yazi)
-[![Vim](https://shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Neovim](https://shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)](https://neovim.io/)
+[![screen](https://shields.io/badge/screen-1BB91F?style=flat&logo=screen&logoColor=white)](https://www.gnu.org/software/screen/)
 [![tmux](https://shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)](https://github.com/tmux/tmux)
 
 </tr></td>
