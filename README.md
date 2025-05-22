@@ -28,38 +28,47 @@
 </div>
 <br>
 
-<!-- Most Used Languages -->
-<div align="center">
-<!--   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=tokyonight&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=default&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" />
-    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=tokyonight&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" alt="Top Languages" />
-  </picture> -->
- 
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=dracula&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" alt="Top Languages" />
-</div>
-<br>
-
-
 <!-- GitHub Stats -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=default&hide_border=true&count_private=true" />
-        <img src="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="WangWindow's GitHub Stats" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=dracula&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=default&hide_border=true" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=dracula&hide_border=true" alt="WangWindow's Streak Stats" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=dracula&hide_border=true" />
+                <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=default&hide_border=true" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=WangWindow&theme=dracula&hide_border=true" alt="WangWindow's Streak Stats" />
+              </picture>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+                <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=default&hide_border=true&count_private=true" />
+                <img src="https://github-readme-stats.vercel.app/api?username=WangWindow&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="WangWindow's GitHub Stats" />
+              </picture>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <!-- Most Used Languages -->
+              <div align="center">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=dracula&show_icons=true&hide=c,html,verilog,vhdl&layout=donut-vertical&langs_count=10" alt="Top Languages" />
+              </div>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
 
 <div align="center">
