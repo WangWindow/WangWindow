@@ -143,7 +143,6 @@
 [![LVGL](https://shields.io/badge/LVGL-373E47?style=flat&logo=c&logoColor=white)](https://lvgl.io/)
 [![Qt](https://shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Uno Platform](https://shields.io/badge/Uno_Platform-5E5E5E?style=flat&logo=.net&logoColor=white)](https://platform.uno/)
-[![MAUI](https://shields.io/badge/MAUI-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/maui)
 [![Godot](https://shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)](https://godotengine.org/)
 [![Unity](https://shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
 
