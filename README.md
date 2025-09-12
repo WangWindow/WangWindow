@@ -80,6 +80,7 @@
 -->
 
 <!-- GitHub Snake Animation -->
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
@@ -87,8 +88,8 @@
     <img alt="github-snake" src="dist/github-snake.svg" />
   </picture>
 </div>
-
 <br>
+-->
 
 <!-- Divider -->
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
