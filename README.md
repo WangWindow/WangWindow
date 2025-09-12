@@ -70,12 +70,14 @@
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
 <!-- Website Connection Speed -->
+<!--
 <div align="center">
   <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github" alt="GitHub Connection" />
   <img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google" alt="Google Connection" />
   <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram" alt="Telegram Connection" />
 </div>
 <br>
+-->
 
 <!-- GitHub Snake Animation -->
 <div align="center">
@@ -92,9 +94,11 @@
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
 <!-- Visitor Counter -->
+<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/WangWindow/count.svg" alt="Visitor Count" style="border-radius: 15px;" />
 </div>
+-->
 
 <!-- Social Media Links -->
 <div align="center">
