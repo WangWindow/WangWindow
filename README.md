@@ -29,6 +29,7 @@
 <br>
 
 <!-- GitHub Stats -->
+<!--
 <div align="center" width="90%">
   <table>
     <tr>
@@ -65,9 +66,12 @@
   </picture>
 </div>
 <br>
+-->
 
 <!-- Divider -->
+<!--
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+-->
 
 <!-- Website Connection Speed -->
 <!--
