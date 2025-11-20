@@ -50,7 +50,7 @@
         </div>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=dracula&show_icons=true&hide=c,M4,html,verilog,vhdl&layout=donut-vertical&langs_count=10" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWindow&theme=dracula&show_icons=true&hide=c,M4,html,jupyter,verilog,vhdl&layout=donut-vertical&langs_count=10" alt="Top Languages" />
       </td>
     </tr>
   </table>
