@@ -29,6 +29,7 @@
 <br>
 
 <!-- GitHub Stats -->
+<!--
 <div align="center" width="90%">
   <table>
     <tr>
@@ -56,6 +57,7 @@
   </table>
 </div>
 <br>
+-->
 
 <div align="center">
   <picture>
@@ -65,6 +67,7 @@
   </picture>
 </div>
 <br>
+
 
 <!-- Divider -->
 <!--
