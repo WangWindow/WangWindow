@@ -61,9 +61,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=dracula&bg_color=20232a&hide_border=true&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=minimal&hide_border=true&area=true" />
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=dracula&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=dracula&bg_color=20232a&hide_border=true&area=true&custom_title=This%20is%20a%20title" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=minimal&hide_border=true&area=true&custom_title=This%20is%20a%20title" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=WangWindow&theme=dracula&bg_color=20232a&hide_border=true&area=true&custom_title=This%20is%20a%20title" alt="Activity Graph" />
   </picture>
 </div>
 <br>
