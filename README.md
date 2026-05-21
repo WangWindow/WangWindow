@@ -85,7 +85,6 @@
 -->
 
 <!-- GitHub Snake Animation -->
-<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
@@ -94,8 +93,6 @@
   </picture>
 </div>
 <br>
--->
-
 
 <!-- Divider -->
 <!--
