@@ -4,7 +4,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # 每周一 00:00 执行（UTC 时间）
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 
 permissions:
