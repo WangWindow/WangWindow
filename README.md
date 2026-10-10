@@ -18,7 +18,7 @@
 </div>
 
 <!-- Divider -->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+<img src="images/paomaxian.gif" height="20" width="100%">
 
 <!-- Typing Animation -->
 <div align="center">
@@ -29,7 +29,6 @@
 <br>
 
 <!-- GitHub Stats -->
-<!--
 <div align="center" width="90%">
   <table>
     <tr>
@@ -57,7 +56,6 @@
   </table>
 </div>
 <br>
--->
 
 <div align="center">
   <picture>
@@ -71,7 +69,7 @@
 
 <!-- Divider -->
 <!--
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+<img src="images/paomaxian.gif" height="20" width="100%">
 -->
 
 <!-- Website Connection Speed -->
@@ -96,7 +94,7 @@
 
 <!-- Divider -->
 <!--
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+<img src="images/paomaxian.gif" height="20" width="100%">
 -->
 
 <!-- Visitor Counter -->
